@@ -1,9 +1,6 @@
 # Мой первый проект в рамках ДПО
 
-## Проект
-
-Этот репозиторий является каркасом для будущего веб-приложения.
-
 ## Ссылки
 
-- [Публичная страница на GitHub Pages](https://zemskovik.github.io/mirea-dpo-pr1/)
+- [Публичная страница на GitHub Pages](https://zemskovik.github.io/mirea-dpo-frontend-1/)
+
